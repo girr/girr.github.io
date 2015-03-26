@@ -11,7 +11,3 @@ Sub-Heading
 *italic* **bold** `monospace` ~~strikethrough~~ 
 
 [link](http://gir.tf)
-
-   1. i
-   2. like
-   3. pie
