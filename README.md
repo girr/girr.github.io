@@ -11,5 +11,3 @@ Sub-Heading
 *italic* **bold** `monospace` ~~strikethrough~~ 
 
 [link](http://gir.tf)
-
-^test ^^test ^^^test
