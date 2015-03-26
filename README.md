@@ -10,12 +10,12 @@ Sub-Heading
 
 *italic* **bold** `monospace` ~~strikethrough~~ 
 
-[link](gir.tf)
+[link](http://gir.tf)
 
-*list
-*list
-*list
+ *list
+ *list
+ *list
 
-1. list
-2. list
-3. list
+ 1. list
+ 2. list
+ 3. list
