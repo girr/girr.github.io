@@ -283,7 +283,6 @@ body {
   top: 0px;
   left: 0px;
   z-index: 1;
-  cursor: url('../null.png'), default;
 }
 #wrapper #background {
   width: 100%;
