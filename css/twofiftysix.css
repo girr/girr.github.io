@@ -276,14 +276,14 @@ body {
   position: fixed;
   z-index: 0;
 }
-/*#wrapper {
+#wrapper {
   width: 100%;
   height: 100%;
   position: absolute;
   top: 0px;
   left: 0px;
   z-index: 1;
-  cursor: url('../src/hand.png'), default;*/
+  cursor: url('../src/hand.png'), default;
 }
 #wrapper #background {
   width: 100%;
